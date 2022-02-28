@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, concerning circuit courts, &amp;c.</title>
+            <title>Proclamations. 1679-08-14</title>
+            <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92675</idno>
+            <idno type="STC">Wing S1719</idno>
+            <idno type="STC">ESTC R230235</idno>
+            <idno type="EEBO-CITATION">99895954</idno>
+            <idno type="PROQUEST">99895954</idno>
+            <idno type="VID">153565</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153565)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2370:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, concerning circuit courts, &amp;c.</title>
+                  <title>Proclamations. 1679-08-14</title>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Edinburgh, printed by the heir of Andrew Anderson, printer to his most sacred Majesty, anno Dom. 1679. And re-printed at London, for Andrew Forrester, in King-street, Westminster,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given under our signet, at Edinbugh [sic], the fourteenth day of Angust [sic], one thousand six hundred seventy and nine years. And of our reign, the thretty[sic] one year.</note>
+                  <note>Arms 85; Steele notation: Purse-  and  Signet,.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Circuit courts --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Proclamations --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:153565:1" rendition="simple:additions"/>
+            <head>A PROCLAMATION, Concerning Circuit Courts, <hi>&amp;c.</hi>
+            </head>
+            <head>
+               <hi>
+                  <seg rend="decorInit">C</seg>HARLES,</hi> by the Grace of GOD, King of Great <hi>Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith; To our Lovits</head>
+            <p>Heraulds, Macers, Purſe<g ref="char:EOLhyphen"/>vants, or Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute Greeting: Foraſmuch, as by our Proclamation of the twenty-ſeventh day of <hi>July</hi> laſt, we have indempnified and pardoned, with the Exceptions therein ſpecified, all ſuch as were ingaged in the Rebellion, 1666. or the late Rebellion in this preſent year 1679. providing they appear before ſuch as our Privy Council ſhall nominate, betwixt and the da<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s expreſt in the ſaid Proclamation, and enact themſelves in manner therein mentioned; And as it is our Royal Intention, that the ſaid pardon and indemnity ſhall be <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffectual to all ſuch perſons as ſhall accept the benent thereof; ſo it is our expreſs will and pleaſure, that ſuch perſons as ſhallnot enact themſelves betwixt and the days expreſt in the ſaid Proclamation, be proceeded with the utmoſt ſeverity the Law does allow: As alſo, it being moſt juſt and neceſſary for vindicating the Honour and Reputation of this our a<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tient Kingdom, that the perſons guilty of that horrid Aſſaſſination and Murther, of the late Biſhop of St. <hi>Andrews</hi> (which we will never forget) may be brought to condign puni<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ment; and all legal courſes taken for that effect; Therefore We, with Advice of our Privy Council, do ordain Juſtice airs, or Circuit Courts to be holden by the Commiſſioners of our Juſtitiary, at the places, and upon the days after mentioned <hi>viz.</hi> At the Town of <hi>Stirling,</hi> the firſt day of <hi>October</hi> next, for the Shires of <hi>Stirling, Dumbartoun, Clackma<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, Perth</hi> beſouth the River of <hi>Earn,</hi> and the Stewartry of <hi>Monteith:</hi> At the Town of <hi>Glaſgow,</hi> the eighth day of <hi>October,</hi> for the Shires of <hi>Lanerk</hi> and <hi>Reafrew:</hi> At the Town of <hi>Air,</hi> the fifteenth day of <hi>October,</hi> for the Shire of <hi>Air</hi> and Juriſdiction within the ſame: At the Town of <hi>Dumfrieſe,</hi> the twenty two day of <hi>October,</hi> for the Shires of <hi>Dumfrieſe,</hi> and <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igtoun,</hi> the <hi>Stewartries</hi> of <hi>Kirk<g ref="char:EOLhyphen"/>cudburgh</hi> and <hi>Annandale:</hi> At the Town of <hi>Cowper</hi> in <hi>Fife,</hi> upon the firſt day of the ſaid Month of <hi>October,</hi> for the Shires of <hi>Fife</hi> and <hi>Kinroſs:</hi> 
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Town of <hi>Edinburgh,</hi> the eighth day of <hi>October,</hi> for the Shires of <hi>Edinburgh, Haddintoun</hi> and <hi>Linlithgow:</hi> At <hi>Jedburh</hi> the fifteenth day of <hi>October,</hi> for the Shires of <hi>Roxburgh, Peebles, Berwick</hi> and <hi>Bai<g ref="char:EOLhyphen"/>liry</hi> of <hi>Lauderdail.</hi> With power to the ſaids Commiſſioners to divide themſelves in two Circuit Courts, to the effect aforeſaid. In which Cou<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s, the ſaids Commiſſioners are to proceed againſt the perſons who were ingaged in the ſaid Rebellion, and have not accepted, or ſhall not except the benefit of our Indemnity. by<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nacting themſelves in the Terms of our Gracious Proclamation, within the Dyets therein mentioned, and particularly againſt the Murderers of the late Arch-biſhop of St. <hi>Andrews;</hi> 
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd that the ſaids Commiſſioners iſſue Citations againſt all the ſaids Rebels, and ſpecially againſt the ſaids Murderers, containing a particular deſcription of theſe Murderers: Whic<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Citations are to be execute at the Mercat Croſs of the Head Burghs of the Shires where theſe perſons dwells, or formerly dwelt, or where they ordinarily haunt or reſort, to the ef<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ct that none may ſupply, harbour, commune, or correſpond with the ſaid Murderers, nor with any other of the Rebels, before theſe other Rebels, not acceſſary to that horrid Murder<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enact themſelves, conform to our Act of Indemnity; And in caſe any perſon ſhall contraveen, they ſhall be proceeded againſt with all rigor, as acceſſary to the ſaid Rebellion and Aſſ<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ination. And furder, We, with advice aforeſaid, do ordain the Heretors and Maſters of the ground where any of the Re-bels have their dwelling and reſidence, to preſent to the <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d Juſtice airs, the perſons of theſe Rebels, who ſhall not before the dyets contained in our Act of Indemnity, enact themſelves not to bear Arms againſt us, or our Authority; with p<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er to them to apprehend their perſons; And in caſe of their refuſal to enact themſelves (as aforeſaid) to ſend them to the next priſon, there to be detained and kept in ſure firmanc<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> until the enact themſelves as a<g ref="char:EOLhyphen"/>foreſaid, within the ſaid Dyets and thereupon be diſmiſt; or otherwiſe to detain and preſent them to the Juſtice airs, And in caſe the ſaids Maſters <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o not apprehend them, by reaſon of their being fugitive, or latent, that after the ſaids Dyets they remove them, their Wives Bairns, and Servants off their Ground, under the Certifica<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ns contained in the Acts of Par<g ref="char:EOLhyphen"/>liament. And the Clerks of the Juſtice Court, are hereby ordained, to go before the ſaids dyets, in due time, and take up a portuous Roll of the N<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es and Deſignations of the ſaids Rebels already known <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd contained in our Proclamation, or that ſhall be declared upon Oath to have been in the Rebellion, or to have harboured <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Rebels before enacting them<g ref="char:EOLhyphen"/>ſelves (as ſaid is) or the Murderers of the late Arch biſhop of St. <hi>Andrews,</hi> or have been at Field-Conventicles ſince our laſt Proclamation of the twe<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y ninth of <hi>June</hi> laſt, or that ſince the ſaid day have threatned, abuſed, or robbed the Orthodox Clergy, and that they cauſe cite the perſons guilty of the ſaids Crimes, to the ſaids Juſtic<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>irs, and that they take informa<g ref="char:EOLhyphen"/>tion upon Oath, of the Lands, Sums and Moveables belonging to the Rebels, and that they cauſe arreſt Rents of their Lands, Sums and moveables, <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d put upon Inventor, and bond in the cuſtody of their Maſters; and in caſe their Maſters refuſe, in the Cuſtody of ſome other ſufficient perſon to be made forthcoming, in caſe t<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſhall be condemned guilty of the ſaid Rebellion, and that they return an exact account thereof, and of their diligence to our Coucil at their next dyet, being the eighteenth day o<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>September</hi> next. And We with advice aforeſaid, do hereby require the ſaids Commiſſioners of our Juſticiary, to proceed againſt ſuch of the ſaids Murderers as were in the Rebelli<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> (though in abſence) and that it be a part of their Sentence to be hanged <hi>in Effigie,</hi> in all the Shiers of <hi>Scotland,</hi> that they may be more eaſily diſcovered and apprehended, that none be<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ceived in harbouring of them, or communing with them under falſe Names and Deſignations: And for the encouragement of any perſon or perſons to apprehend the ſaid Murderers, V<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> do hereby give aſſurance to any who ſhall apprehend them, and preſent them to our Council, dead or alive, or shall ſo diſcover them, as that thereby they be apprehended, they ſhal <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e indemnified and rewarded in the ſum of ten thouſand Merks Scots Mony, and in caſe of the concourſe of moe perſons, by diſcovering, or joyning in the apprehending of them, th<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>id ſum shall be divided amongſt them; and in caſe any of the ſaids Murderers be apprehended and taken, or diſcovered, ſo that thereby they may be taken by any perſons excepted <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Acts of Indemnity, they shall alſo be indemnified (notwithſtanding they fall within the exception) and a pardon shall be paſt for them under our Great Seal; and in Caſ<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hey apprehend <hi>John Balſour</hi> of <hi>Kinlech,</hi> and <hi>David Haxſtoun</hi> of <hi>Rathillet,</hi> dead or alive, they shall not only have their pardon, but alſo the reward aforeſaid. Our Will is thefore, and <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e charge you ſtraitly, and Com<g ref="char:EOLhyphen"/>mand, that incontinent theſe our Letters ſeen ye paſs to the Mercat Croſs of <hi>Edinburgh,</hi> as alſo to the Mercat Croſſes of the Head Burghs of the Sh<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>fdoms, <hi>Haddington, Linlithgow, Perth, Roxburgh, Selkirk, Berwick, Peebles, Dumfri<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe, Stirling, Dumbarton, Clackmannan, Lanerk, Renfrew, Air, Wigtoun, Fife, Stewartry</hi> of <hi>Kircud<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gh,</hi> and other places needfuil and thereby open Proclamation, make publication of the ſaid Circuits, to all our Leidges and Subjects, where through none pretend ignorance <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſame, that the ſaid Circuit, Courts are to be holden upon the days, and at the Burghs and places reſpective above written; and that ye command and charge all Dukes, Marqueſſe<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Arch bishops, Earls, Lords Spi<g ref="char:EOLhyphen"/>ritual and Temporal, Barons, and others of our Free holders, who hold Lands of us in chief, and owe ſuit and preſence within the ſeveral Bound<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Shires and Precincts belonging to the ſaids reſpective Circuit Courts, to compear before the ſaids Commiſſioners, at the ſaids Courts, upon and at the days and places foreſaid, with <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ntinuation of days, to do what<g ref="char:EOLhyphen"/>ever in Law is incumbent, and ought to be done by them in that behalf: As alſo, that ye Command all and ſundry the ſaids Dukes, Marqueſſes, E<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s, Lords Spiritual and Tempo<g ref="char:EOLhyphen"/>ral; as alſo, Lords of Regalites, Stewarts, Barons, Sheriffs, Juſtices of Peace, Bailies, Cham-berlains, Magiſtrates and Miniſters of our Laws, and all ſu<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ordinate Judges within our She<g ref="char:EOLhyphen"/>riffdoms, above written, and whole Leidges of the ſame, that they and every one of them, give all due reſpect to our Commiſſioners and Juſtices fore<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ds, and ſuch ſpecial aſſiſtance as to their Offices and Duty appertains, and as is incumbent to them by the Laws and Acts of Parlament of this our Ancient Kingdom, as they and every<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ne of them will anſwer upon the contrary, and under all higheſt pain and charge that after may follow: and particularly that ye Command our Sheriffs that they cauſe ſufficient and le<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> men compear before our ſaids Commiſſioners, at the forſaid dyets, and ſuch dyets and places as the ſaid Commiſſioners ſhall appoint for Aſſizes and Witneſses, as they ſhall be cit<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to that effect: As alſo, that the ſaid Sheriffs and Free holders within the ſaid Shires and Bounds, meet our ſaid Juſtices, st their entry into the fame, and convoy them into the ſame, <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd accompany them during their remaining there, ay and while they be received by our next Sheriff, and his Deputs, into the next Shire. And We ordain theſe Preſents to be <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inted.</p>
+            <closer>
+               <dateline>Given under our Signet, at <hi>Edinbu<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gh,</hi> 
+                  <date>the fourteenth day of <hi>Auguſt,</hi> one thouſand ſix hundred ſeventy and nine years. And of our Reign, the thretty one year.</date>
+               </dateline>
+               <signed>
+                  <hi>Al. Gibſon<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Cl. Sti. Concilii,</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_names">
+            <p>Here follows the Names of thoſe appointed to take Bond from the Rebels, in the ſeveral Shires following, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>For the Shire of <hi>Edinburgh,</hi>
+               </item>
+               <item>
+                  <hi>Haddingtoun,</hi>
+               </item>
+               <item>
+                  <hi>Linlithgow,</hi>
+               </item>
+               <item>
+                  <hi>Perth?</hi>
+               </item>
+               <item>
+                  <hi>Roxburgh,</hi>
+               </item>
+               <item>
+                  <hi>Selkirk,</hi>
+               </item>
+               <item>
+                  <hi>The Lord Collington.</hi>
+               </item>
+               <item>
+                  <hi>The Earl of Wintoun.</hi>
+               </item>
+               <item>
+                  <hi>The Earl of Linlithgow.</hi>
+               </item>
+               <item>
+                  <hi>The Marqueſs of Montroſs.</hi>
+               </item>
+               <item>
+                  <hi>The Earl of Rexburgh.</hi>
+               </item>
+               <item>
+                  <hi>The Laird of Hayning.</hi>
+               </item>
+               <item>
+                  <hi>Lanerk,</hi>
+               </item>
+               <item>
+                  <hi>Dumfreiſe,</hi>
+               </item>
+               <item>
+                  <hi>Air.</hi>
+               </item>
+               <item>
+                  <hi>Dumbartoun.</hi>
+               </item>
+               <item>
+                  <hi>Fife and Kinroſs,</hi>
+               </item>
+               <item>
+                  <hi>Wigtoun.</hi>
+               </item>
+               <item>
+                  <hi>The Earl of Cornwath.</hi>
+               </item>
+               <item>
+                  <hi>The Earl of Queensberry.</hi>
+               </item>
+               <item>
+                  <hi>The Earl of Glencairn.</hi>
+               </item>
+               <item>
+                  <hi>The Earl of Wigtoun.</hi>
+               </item>
+               <item>
+                  <hi>The Lord Chancellor.</hi>
+               </item>
+               <item>
+                  <hi>The Laird of Burghtoun.</hi>
+               </item>
+               <item>
+                  <hi>Stewartry of Kigkoudburgh</hi>
+               </item>
+               <item>
+                  <hi>Peebles,</hi>
+               </item>
+               <item>
+                  <hi>Stirling,</hi>
+               </item>
+               <item>
+                  <hi>Renfrew,</hi>
+               </item>
+               <item>
+                  <hi>Berwick,</hi>
+               </item>
+               <item>
+                  <hi>The Earl of Nithiſdale.</hi>
+               </item>
+               <item>
+                  <hi>Sir Will. Murray of Stenhop.</hi>
+               </item>
+               <item>
+                  <hi>The Earl of Mar.</hi>
+               </item>
+               <item>
+                  <hi>The Lord Roſs.</hi>
+               </item>
+               <item>
+                  <hi>The Earl of Home.</hi>
+               </item>
+            </list>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to his moſt Sacred Majeſty, <hi>Anno Dom.</hi> 1679. And Re-printed at <hi>London,</hi> for <hi>Andrew Forrester,</hi> in <hi>King-street, Weſtminſter.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
